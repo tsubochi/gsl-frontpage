@@ -4,12 +4,13 @@ Professor Yoshiyuki Tamura of Hokkaido University will deliver a series
 of lectures on intellectual property as follows:
 
 > **Title:** Overview of Japanese Intellectual Property
-
+>
 > **Presenter:** Y Tamura, Hokkaido University
-
+>
 > **Date & Time:** Mon 7 Jan 13:00-18:00 and Tue 8 Jan 13:00-18:00
-
+>
 > **Place:** GSID Building Lecture Room 3
+{:class:compact}
 
 Content of sessions will be as follows:
 
