@@ -1,9 +1,9 @@
 News updates
 
-Visitors to the GSL website occasionally over the
-past several years will have notices that the news
+Visitors to the GSL website over the
+past several years will have noticed that the news
 items on our front page have not always been, shall
-we say, new.
+we say, *new*.
 
 This is about to change, thanks to new lightweight
 procedures that will help us capture events as they
