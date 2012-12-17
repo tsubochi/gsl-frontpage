@@ -10,7 +10,8 @@ of lectures on intellectual property as follows:
 > **Date & Time:** Mon 7 Jan 13:00-18:00 and Tue 8 Jan 13:00-18:00
 >
 > **Place:** GSID Building Lecture Room 3
-{:class:compact}
+
+<hr/>
 
 Content of sessions will be as follows:
 
