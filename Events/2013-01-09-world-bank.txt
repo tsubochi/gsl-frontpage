@@ -1,18 +1,16 @@
 Philip Keefer: Leading Program lecture
+#organizer: Saori Okuda
+#email: okuda@law.nagoya-u.ac.jp
+#presenter: Philip Keefer, Lead Research Economist, Development Research Group, World Bank
+#title: The World Bank, Development, and the Political Economy
+#language: English
+#date-and-time: 2013-01-09 15:00 to 17:00
+#place: Lecture Room 2, Law Building
 
-We are pleased to announce a lecture by Philip Keefer of the 
-World Bank, to be delivered under the Leading Graduate
-School program.
+We are pleased to announce a lecture delivered under the Leading Graduate
+School program:
 
-> **Title:** The World Bank, Development, and the Political Economy
->
-> **Presenter:** Philip Keefer, Lead Research Economist, Development Research Group, World Bank
->
-> **Date & Time:** 15:00-17:00 Wednesday, 9th January 2013
->
-> **Place:** Lecture Room 2, Law Building
-> 
-> **Language:** English
+@@DETAILS@@
 
 <hr/>
 

@@ -1,15 +1,18 @@
 Yoshiyuki Tamura: JDS lectures on Intellectual Property
+#organizer: Hiro Otsubo
+#email: h.otsubo.st@gmail.com
+#presenter: Yoshiyuki Tamura, Hokkaido University
+#title: Overview of Japanese Intellectual Property
+#date-and-time: 2013-01-07 13:00 to 18:00 and 2013-01-08 13:00 to 18:00
+#place: GSID Building Lecture Room 3
+#language: English
 
-Professor Yoshiyuki Tamura of Hokkaido University will deliver a series
-of lectures on intellectual property under the JDS program:
+We are please to announce a series of lectures with support
+from the JDS program:
 
-> **Title:** Overview of Japanese Intellectual Property
->
-> **Presenter:** Y Tamura, Hokkaido University
->
-> **Date & Time:** Mon 7 Jan 13:00-18:00 and Tue 8 Jan 13:00-18:00
->
-> **Place:** GSID Building Lecture Room 3
+@@DETAILS@@
+
+
 
 <hr/>
 

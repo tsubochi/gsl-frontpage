@@ -1,20 +1,15 @@
 Jorg Polakiewicz: Council of Europe and Human Rights
+#organizer: Haruna Kawashima
+#email: haruna.k@law.nagoya-u.ac.jp
+#title: The Council of Europe: a dynamic forum for human rights and legal cooperation also beyond Europe
+#presenter: Professor Jorg Polakiewicz, Directorate General Human Rights & Rule of Law, Head of Human Rights Policy & Development, Council of Europe
+#date-and-time: 2012-07-18 13:00 to 14:30
+#place: CALE Forum
+#language: English
 
-Professor Plakiewicz is a noted authority on human rights protection in both Europe and Asia within the Council of Europe.
+We are please to offer the following lecture:
 
-> **Title:** The Council of Europe: a dynamic 
-> forum for human rights and legal cooperation also beyond Europe
-> 
-> **Lecturer:** Professor Jorg Polakiewicz,
-> Directorate General Human Rights & Rule of Law, Head of Human Rights Policy & Development, Council of Europe
->
-> **Date:** Wed. 18 July
->
-> **Time:** 13:00 - 14:30
->
-> **Venue:** CALE Forum
->
-> **Language:** English
+@@DETAILS@@
  
 Participants are recommended to review the websites of the [European Court of Human Rights](http://www.echr.coe.int/ECHR/homepage_en),
 and the Council of Europe pages on the [Cybercrime treaty](http://www.coe.int/cybercrime) recently signed by Japan,
