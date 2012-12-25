@@ -1,16 +1,19 @@
 International Summer Seminar 2012
+#organizer: Saori Okuda
+#email: okuda@law.nagoya-u.ac.jp
+#date-and-time: 2012-08-06 to 2012-08-24
+#place: Graduate School of Law
+#language: English
 
 It gives us great pleasure to announce the [Nagoya University School of Law 
 International Summer Seminar 2012](http://www.law.nagoya-u.ac.jp/iss2012/) (ISS).
 
-> **Period:** 6 August (Mon.) -- 24 August (Fri.)
-> 
-> **Language:** English 
-> 
-> **Participating Institutions:** National University of Seoul (Korea), 
-> Renmin University of China, Shanghai Jiao Tong University
-> (China), Sungkyunkwan University (Korea), Tamasaat University (Thailand), Tsinghua University (China),
-> and University of Seoul (Korea).
+@@DETAILS@@
+
+Participating institutions include: National University of Seoul (Korea), 
+Renmin University of China, Shanghai Jiao Tong University
+(China), Sungkyunkwan University (Korea), Tamasaat University (Thailand), Tsinghua University (China),
+and University of Seoul (Korea).
 
 Participating students from Nagoya University and partner institutions may be able
 to claim academic credit for courses offered within the ISS. Please

@@ -1,22 +1,19 @@
 Vince Eng Teong See: Malaysia Competition Laws
+#organizer: Fujio Kawashima
+#email: fkawa@gsid.nagoya-u.ac.jp
+#date-and-time: 2012-12-18 13:00 to 15:00
+#place: Multi-purpose Auditorium, 8th floor, GSID
+#presenter: Dr. Vince Eng Teong SEE (Ph.D. at the GSID), Associate Fellow, University of Malaya Centre of Regulatory Studies
+#language: English
 
 A special lecture on the Competition Laws of Malaysia will be held as follows:
 
-> **Date & Time:** Tuesday Dec. 18, 2012, 13:00 to 15:00
-> 
-> **Venue:** Multi-purpose Auditorium, 8th floor, GSID
->
-> **Speaker:** Dr. Vince Eng Teong SEE (Ph.D. at the GSID),
-> Associate Fellow, University of Malaya Centre of Regulatory
-> Studies
->
-> **Topic:** Competition Laws of Malaysia: Development, Issues and Challenges
-> 
-> **Language:** English
->
-> **Registration:** Please register in advance by sending an email to 
-> Professor Fujio Kawashima of the GSID at the following address:
-> fkawa@gsid.nagoya-u.ac.jp
+@@DETAILS@@
+
+Please register in advance by sending an email to Professor Fujio Kawashima of 
+the GSID at the following address: fkawa@gsid.nagoya-u.ac.jp
+
+<hr>
        
 Dr. See studied competition law at the Graduate School for International
 Development, obtaining the degree of Ph.D. in 2009. Upon his return to Malaysia, he was invited by the

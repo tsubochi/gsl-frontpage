@@ -1,18 +1,17 @@
-Research methods workshop: Boren Kork and Ouach Tri (through 30 Nov [Fri]).
+Boren Kork and Ouach Tri: Research Methods Workshop
+#organizer: Saori Okuda
+#email: okuda@law.nagoya-u.ac.jp
+#date-and-time: 2012-11-29 9:00 to 12:00 and 2012-11-30 9:00 to 12:00
+#place: Integrated Research Building, Room 408
+#presenter: Dr. Boren Kork and Mr. Ouach Tri
+#language: English
 
-Dr. Boren Kork and Mr. Ouach Tri while lead a research methods
-workshop on November 29th and 30th. The session is made possible
-with support from the JDS program. All students are welcome to
-attend. The lecturers will speak from their own experience,
-offering advice on the research process, thesis writing, and
-student life. Their presentation will be followed by a question
-and answer session.
- 
-> **Title:** Research Methods Workshop
->
-> **Presenters:** Boren Kork and Ouach Tri
->
-> **Date & Time:** 9:00-12:00, 27-30 Nov (Tue to Fri)
->
-> **Place:** Integrated Research Building, Room 408
+We are please to announce the following workshop, made possible
+with support from the JDS program:
 
+@@DETAILS@@
+
+All students are welcome to attend. The lecturers will speak from
+their own experience, offering advice on the research process, thesis
+writing, and student life. Their presentation will be followed by a
+question and answer session.

@@ -1,20 +1,19 @@
-Akitsuyu Ogawa: Intellectual Property Lecture
+﻿Akitsuyu Ogawa: Intellectual Property Lecture
+#organizer: Haruna Kawashima
+#email: haruna.k@law.nagoya-u.ac.jp
+#date-and-time: 2012-07-26 14:45 to 18:00 and 2012-08-01 14:45 to 18:00 and 2012-08-02 13:00 to 16:15 and 2012-08-03 13:00 to 16:15
+#place: Integrated Research Building, Room 405
+#presenter: Mr. Akitsuyu Ogawa
+#language: English
 
-We are happy to announce a series of special lectures to be given by Professor Akitsuyu Ogawa,
-practitioner and Adjunct Professor in the Faculty of Law.
 
-> **Title:** Introductory Course of the Intellectual Property Law
->
-> **Lecturer:** Mr. Akitsuyu Ogawa
->
-> **Dates:** Thur. 26 July (14:45 - 18:00); Wed. 1 August (14:45 - 18:00)
-> Thur. 2 August (13:00 - 16:15); Fri. 3 August (13:00 - 16:15)
->
-> **Venue:**  Integrated Research Building, Room 405
- 
+We are pleased to offer the following series of special lectures:
+
+@@DETAILS@@
+
 These lectures will have the same coverage as the series delivered
 by Mr. Ogawa last year.
  
 Participants may be required to prepare for the lectures.
-Please sign in beforehand by sending e-mail to [Ms. Kawashima](mailto:haruna.k@law.nagoya-uy.ac.jp)
+Please sign in beforehand by sending e-mail to [Ms. Kawashima](mailto:haruna.k@law.nagoya-u.ac.jp)
 
