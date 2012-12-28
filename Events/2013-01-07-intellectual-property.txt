@@ -7,7 +7,7 @@ Yoshiyuki Tamura: JDS lectures on Intellectual Property
 #place: GSID Building Lecture Room 3
 #language: English
 
-We are please to announce a series of lectures with support
+We are pleased to announce a series of lectures with support
 from the JDS program:
 
 @@DETAILS@@
