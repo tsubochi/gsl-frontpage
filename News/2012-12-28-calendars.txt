@@ -10,5 +10,6 @@ times are set in universal time, and will adjust to the visitor's
 own timezone.
 
 We hope that this new facility will make participating in the
-life of the faculty that much easier for staff, students and
-our visitors from overseas.
+life of the faculty that much easier for staff, students, and
+both virtual and on-campus visitors.
+
