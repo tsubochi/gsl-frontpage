@@ -1,0 +1,14 @@
+Calendar support
+
+Pages in the **Events** and **Curriculm** sections of the website
+now carry calendar links (look for an icon decorated with a drop-shadow effect).
+Clicking on one of these links will automatically add the electronic
+diary included in most modern computers and mobile devices.
+
+For the convenience of overseas site visitors, calendar dates and
+times are set in universal time, and will adjust to the visitor's
+own timezone.
+
+We hope that this new facility will make participating in the
+life of the faculty that much easier for staff, students and
+our visitors from overseas.
