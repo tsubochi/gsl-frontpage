@@ -1,7 +1,7 @@
 Calendar support
 
 Pages in the **Upcoming Events** and **Curriculm** sections of the website now
-carry calendar links (look for an icon decorated with a drop-shadow
+carry spiffy calendar links (look for an icon decorated with a drop-shadow
 effect).  Clicking on one of these links will automatically add the
 relevant schedule information to the electronic diary included in
 most modern computers and mobile devices. For the convenience of
