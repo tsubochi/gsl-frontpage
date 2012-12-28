@@ -3,7 +3,7 @@ Calendar support
 Pages in the **Upcoming Events** and **Curriculm** sections of the website now
 carry calendar links (look for an icon decorated with a drop-shadow
 effect).  Clicking on one of these links will automatically add the
-relevant schedule information the the electronic diary included in
+relevant schedule information to the electronic diary included in
 most modern computers and mobile devices. For the convenience of
 overseas site visitors, calendar dates and times are set in universal
 time, and will adjust to the visitor's own timezone.
